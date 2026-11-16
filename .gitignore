@@ -1,0 +1,10 @@
+.vercel
+.env*
+!.env.example
+!server/.env.example
+node_modules/
+dist/
+*.db
+*.db-shm
+*.db-wal
+*.pdf
